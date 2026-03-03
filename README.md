@@ -3,5 +3,6 @@
 Hassan
 IT Professional - Morocco
 ### Goals
-1.Grow my level
-2.be a backeend developer
+1.Master Backend Development Fundamentals
+2.Build Secure and Structured Backend Applications
+3.Deploy and Collaborate on Real Projects
